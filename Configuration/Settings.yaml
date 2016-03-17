@@ -1,0 +1,6 @@
+TYPO3:
+
+  TypoScript:
+    defaultContext:
+      'Image': 'Ttree\MediaUtility\Eel\Helper\ImageHelper'
+      'Color': 'Ttree\MediaUtility\Eel\Helper\ColorHelper'
