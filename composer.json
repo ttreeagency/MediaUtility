@@ -2,6 +2,7 @@
     "name": "ttree/mediautility",
     "type": "typo3-flow-package",
     "description": "Utilities to work with medias and assets in Flow Framework projects",
+    "keywords": ["flow", "neos", "media", "color"],
     "license": "MIT",
     "require": {
         "typo3/media": "~2.1"
