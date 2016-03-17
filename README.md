@@ -1,4 +1,4 @@
-[![BSD License](https://img.shields.io/github/license/mashape/apistatus.svg)]
+[![BSD License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt)
 [![Latest Stable Version](https://poser.pugx.org/ttree/mediautility/version)](https://packagist.org/packages/ttree/mediautility)
 
 # Media Utility
