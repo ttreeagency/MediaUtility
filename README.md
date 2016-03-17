@@ -1,4 +1,4 @@
-[![BSD License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt)
+[![BSD License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Latest Stable Version](https://poser.pugx.org/ttree/mediautility/version)](https://packagist.org/packages/ttree/mediautility)
 
 # Media Utility
@@ -18,4 +18,4 @@ We try our best to craft this package with a lots of love, we are open to sponso
 
 ## License
 
-The MIT License (MIT). Please see [LICENSE](LICENSE.txt) for more information.
+The MIT License (MIT). Please see [LICENSE](LICENSE) for more information.
